@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px # type: ignore
+import plotly.express as px
 
 # Load the Excel file
 file_path = 'indikator.xlsx'
